@@ -1,0 +1,28 @@
+[Metadata]
+Title: sink to the deep sea world
+Artist: Chroma
+Creator: beefchip
+Mode: Keys-4
+AudioFile: audio.mp3
+CoverFile: cover.jpg
+SongPreviewTime:
+DifficultyName:
+Description: ''
+
+[Events]
+1024:0:0:0,10,10:-1.5707,0,0
+6213:0:0:0,20,10:-1.5707,0,0
+
+[Timing]
+500,500
+
+[Velocity]
+500,1
+
+[Objects]
+500,0
+500,1
+500,3
+750,2
+1000,0
+1000,3
